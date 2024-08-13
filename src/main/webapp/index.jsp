@@ -22,7 +22,7 @@
               <td>SQL Basics</td>
               <td>Srikanth</td>
               <td>20010</td>
-              <td>Data Base</td>
+              <td>Data Base Concepts</td>
             </tr>
           </tbody>
         </table>

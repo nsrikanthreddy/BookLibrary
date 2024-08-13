@@ -24,6 +24,12 @@
               <td>20010</td>
               <td>Data Base Concepts</td>
             </tr>
+           <tr>
+              <td>AWS Basics</td>
+              <td>Srikanth</td>
+              <td>20010</td>
+              <td>AWS Concepts</td>
+            </tr>
           </tbody>
         </table>
       </div>
